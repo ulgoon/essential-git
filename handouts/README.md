@@ -13,9 +13,3 @@
 - ch04. branch
 
 - ch05. collaborate with git
-
-### asciinema
-
-https://asciinema.org/a/QmgWXWwf8VhBfS0pF7jxrCv8Y
-
-https://asciinema.org/a/207171
