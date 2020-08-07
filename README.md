@@ -6,8 +6,6 @@ https://ulgoon.github.io/2019/09/09/01-git-first/
 
 https://ulgoon.github.io/2019/09/10/02-git-alone/
 
-## git practice repository for all
-
 ### Index
 
 - ch01. tools for git
