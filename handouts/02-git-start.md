@@ -108,6 +108,11 @@ https://gitforwindows.org/
 
 `$ git --version` 으로 정상적으로 설치되었는지를 확인
 
+### Optional
+
+- github CLI
+https://cli.github.com/
+
 ---
 
 ## git is not equal to github
