@@ -234,6 +234,26 @@ Make some change
 
 ---
 
+1. 팀장이 자기 소유의 repo를 만든다
+2. clone 하여 약간의 작업 후 add, commit, push
+3. notice 받은 팀원은 fork 하여 자신의 소유가 된 repo를 clone
+4. 작업할 내용을 미리 issue 등록
+4-1. or 팀장이 강제 issue 생성 후 작업지시 
+5. `$ git remote add pmorigin {pm의 repo 주소}` 하여 미리 등록
+6. feature branch 생성 후 작업, add, commit(with issue no)
+7. master로 merge 한 후, 나의 master로 push
+8. pull request 생성
+9. 팀장은 확인 후 merge(conflict, file change 확인 필수)
+
+---
+
+## volvocars main page clone with git flow
+
+1. role 분배(40분안에 클론하려면 어떻게 역할을 나눠야 할까)
+2. 위의 과정 반복
+
+---
+
 ## continuous pull
 
 ---
